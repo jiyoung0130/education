@@ -1,0 +1,1 @@
+print("Hello,",input("이름 입력 :"), "!")

@@ -1,0 +1,1 @@
+print(input() in "Department of Computer Engineering, Hanbat National University 2023 Python Programming")

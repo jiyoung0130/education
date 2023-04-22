@@ -1,0 +1,1 @@
+print(input() is not input())
